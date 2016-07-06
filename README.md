@@ -17,5 +17,12 @@ Texture on planes
 KD-Tree for faster intersection with obj models
 
 ####Rendered images:
-![image](https://github.com/wyx528/raytracer/raw/master/img/dragon.png)
 ![image](https://github.com/wyx528/raytracer/raw/master/img/fractal2.png)
+
+![image](https://github.com/wyx528/raytracer/raw/master/img/dragon.png)
+
+![image](https://github.com/wyx528/raytracer/raw/master/img/two_dragon.png)
+
+![image](https://github.com/wyx528/raytracer/raw/master/img/pt2.png)
+
+![image](https://github.com/wyx528/raytracer/raw/master/img/pt_vague_refl.png)
