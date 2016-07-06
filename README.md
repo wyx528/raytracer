@@ -2,6 +2,8 @@
 
 A simple realistic renderer based on monte carlo path tracing.
 
+Homework for undergraduate course "Fundamentals of Computer Graphics" in Tsinghua University and got 2 credits, 100 grades.
+ 
 ####Requirement:
 Qt4 with MinGW for Windows
 
